@@ -1,0 +1,8 @@
+__pycache__/
+*.mp3
+*.jpg
+.env
+*.zip
+*.tar.gz
+venv/
+.cache/
